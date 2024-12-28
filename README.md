@@ -18,5 +18,5 @@ By deafualt its your joystick
 ## Preview
 <div align="center">
 NOTE: This image may not be up to date.
-<img src="https://https://https://github.com/sevisadev/Sev-Essence/blob/master/Sev%20Essence.png?raw=true" title = "NOTE: Image may not be up to date." alt = "IMAGE MAYBE NOT BE UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
+<img src="https://github.com/sevisadev/Sev-Essence/blob/master/Sev%20Essence.png?raw=true" title = "NOTE: Image may not be up to date." alt = "IMAGE MAYBE NOT BE UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
 </div>
