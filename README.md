@@ -8,7 +8,7 @@
 # Sev Essence
 ## A gorilla tag cheat menu.
 ## <i>Installation</i>
-Download the latest release DLL [here](https://github.com/sevisadev/Sev-Essence/releases/latest). You will need Bepinex installed, this mod only requires utila with can be found in Monke Mod Manger! Then drag the file into your plugins and your good to go!
+Download the latest release DLL [here](https://github.com/sevisadev/Sev-Essence/releases/latest). You will need Bepinex installed! Drag the file into your plugins and start gorilla tag if needed!
 ## <i>Source code</i>
 No source code.
 ## Credits
