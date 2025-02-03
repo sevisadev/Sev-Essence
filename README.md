@@ -12,9 +12,9 @@ Download the latest release DLL [here](https://github.com/sevisadev/Sev-Essence/
 ## <i>Source code</i>
 No source code.
 ## Credits
-In game
+Credits can be found in game with smaller things in the [discord](https://discord.gg/Fjwnh4ygPZ).
 # Controls vr
-By deafualt its your right secondary
+By deafualt to open the menu press down your right secondary
 ## Preview
 <div align="center">
 <img src="https://github.com/sevisadev/Sev-Essence/blob/master/Sev%20Essence.png?raw=true" title = "NOTE: Image may not be up to date." alt = "IMAGE MAYBE NOT BE UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
