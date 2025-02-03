@@ -14,7 +14,7 @@ No source code.
 ## Credits
 In game
 # Controls vr
-By deafualt its your joystick
+By deafualt its your right secondary
 ## Preview
 <div align="center">
 <img src="https://github.com/sevisadev/Sev-Essence/blob/master/Sev%20Essence.png?raw=true" title = "NOTE: Image may not be up to date." alt = "IMAGE MAYBE NOT BE UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
