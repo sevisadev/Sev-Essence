@@ -14,7 +14,7 @@ No source code.
 ## Credits
 Credits can be found in game with smaller things in the [discord](https://discord.gg/Fjwnh4ygPZ).
 # Controls vr
-By deafualt to open the menu press down your right secondary
+By deafualt to open the menu press down your right secondary. To open on pc click ` its a toggle.
 ## Preview
 <div align="center">
 <img src="https://github.com/sevisadev/Sev-Essence/blob/master/Sev%20Essence.png?raw=true" title = "NOTE: Image may not be up to date." alt = "IMAGE MAYBE NOT BE UP TO DATE" style="display: block;  margin-left: auto; margin-right: auto; width=10%;">
