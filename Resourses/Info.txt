@@ -3,3 +3,4 @@ sev,toasty
 <color=white>Thank you for using Sev Essence. The menu version your on has {0} mods. I hope you enjoy using my menu and have fun! If you are banned, it is not my fault.
 Settings
 false
+
